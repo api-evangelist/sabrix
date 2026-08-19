@@ -36,7 +36,7 @@ x-acquired-by: thomson-reuters
 x-acquired-year: 2009
 x-successor-product: Thomson Reuters ONESOURCE Indirect Tax
 x-domain-redirect: https://tax.thomsonreuters.com/en/onesource/indirect-tax
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-21'
 tags:
