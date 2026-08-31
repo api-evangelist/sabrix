@@ -62,6 +62,11 @@ tags:
 - Thomson Reuters
 apis: []
 common:
+- type: ParentCompany
+  url: https://apis.io/providers/thomson-reuters/
+  name: Thomson Reuters
+  x-relationship: acquired
+  x-evidence: "Sabrix was acquired by Thomson Reuters in 2009 and folded into the Thomson Reuters ONESOURCE Indirect Tax product line."
 - type: Website
   url: https://tax.thomsonreuters.com/en/onesource/indirect-tax
 maintainers:
